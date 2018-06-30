@@ -1,9 +1,8 @@
 # Linear Regression From Scratch
 
-Machine learning practice by writing the univariate linear regression algorithm using numpy. The cost function and gradient descent
-algorithms are all written from scratch.
+Machine learning practice by writing the univariate linear regression algorithm using pandas and matplotlib. The cost function and gradient descent algorithms are all written from scratch.
 
-The dataset used in the file is based on the number of hours, x, that students studied for a particular test, and the score, y, that the respective student got in the test.
+The dataset used in the file is based on the number of hours, x, that a student studied for a particular test, and the score, y, that this respective student got in the test.
 
 The linear equation used is y = (m * x) + b, but for those used to parameters denoted as "theta", this equation can also be written as h(x) = (theta1 * x) + theta0.
 
